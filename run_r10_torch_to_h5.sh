@@ -1,0 +1,1 @@
+python r10_torch_to_h5.py --net_id mcunet-in2 --dataset imagenet --data-dir /home/johnson/dataset/imagenet/val
